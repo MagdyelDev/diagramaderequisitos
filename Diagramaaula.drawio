@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="3">
   <diagram name="Página-1" id="-IdWgxmrmdWZEqp3SVvu">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qqWXLzg1MvQcj8f4g9ZV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="520" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="EF-VqIz4T9vd6OmFMSw3-6" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="505" width="40" height="80" as="geometry" />
         </mxCell>
@@ -152,6 +155,41 @@
             <mxPoint x="439" y="670" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wVw2RCqWjOGaPUzD60Uh" name="Página-3">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a48MInh6Thi-dWbWqh0t-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="910" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-3" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="825" width="30" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-14" value="Sistema de reserva de hotel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="820" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-15" value="Sistema de pagamentos" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="820" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-16" value="Pessoal do hotel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="820" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-17" value="Fornecedor de serviços" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="820" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a48MInh6Thi-dWbWqh0t-19" value="Casos de uso,&amp;nbsp; Associação dos blocos, sistema, atores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="740" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

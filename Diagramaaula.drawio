@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wVw2RCqWjOGaPUzD60Uh" name="Página-3">
-    <mxGraphModel dx="2514" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,8 +170,8 @@
         <mxCell id="a48MInh6Thi-dWbWqh0t-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-29" y="430" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a48MInh6Thi-dWbWqh0t-13" value="Iniciar o processo de reserva" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="100" y="385" width="80" height="55" as="geometry" />
+        <mxCell id="a48MInh6Thi-dWbWqh0t-13" value="Iniciar o processo de&lt;div&gt;colocar a&amp;nbsp; reserva&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="100" y="380" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a48MInh6Thi-dWbWqh0t-14" value="Sistema de reserva de hotel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="600" width="30" height="70" as="geometry" />
@@ -273,6 +273,12 @@
           <mxGeometry x="680" y="750" width="222.5" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="mS4_eIrlablyWJlc4HnX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mS4_eIrlablyWJlc4HnX-26" target="mS4_eIrlablyWJlc4HnX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS4_eIrlablyWJlc4HnX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mS4_eIrlablyWJlc4HnX-35" target="a48MInh6Thi-dWbWqh0t-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS4_eIrlablyWJlc4HnX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.89;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mS4_eIrlablyWJlc4HnX-14" target="mS4_eIrlablyWJlc4HnX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

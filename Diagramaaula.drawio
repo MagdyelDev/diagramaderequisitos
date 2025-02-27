@@ -392,7 +392,7 @@
           <mxGeometry x="620" y="435" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-35" value="Coletar lixo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="534.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -400,32 +400,53 @@
             <mxPoint x="720" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-35" target="WvgvfmkFP0tfZ369YzV3-12">
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-39" value="Convencer os npcs do jogo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="574.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="614.5" as="sourcePoint" />
+            <mxPoint x="150" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-41" value="Ajudar o prefeito" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="624.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="664.5" as="sourcePoint" />
+            <mxPoint x="150" y="614.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-43" value="Pode comprar itens" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-43" target="WvgvfmkFP0tfZ369YzV3-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="554.5" as="sourcePoint" />
+            <mxPoint x="110" y="544.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-46" value="Desfrutar o jogo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-48" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="550" as="sourcePoint" />
             <mxPoint x="190" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-39" value="Convencer os npcs do jogo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="530" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-39">
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-46" target="WvgvfmkFP0tfZ369YzV3-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="570" as="sourcePoint" />
-            <mxPoint x="140" y="520" as="targetPoint" />
+            <mxPoint x="120" y="520" as="sourcePoint" />
+            <mxPoint x="170" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-41" value="Ajudar o prefeito" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-41">
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.138;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-46" target="WvgvfmkFP0tfZ369YzV3-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="620" as="sourcePoint" />
-            <mxPoint x="140" y="570" as="targetPoint" />
+            <mxPoint x="84" y="514" as="sourcePoint" />
+            <mxPoint x="70" y="529" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-43" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

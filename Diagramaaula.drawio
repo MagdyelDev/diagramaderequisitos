@@ -309,8 +309,8 @@
         <mxCell id="y1Bi6_eC6XaAmdR6RLge-9" value="Poder excluir o personagem" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="290" y="542.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-1" value="Armazenar os dados do sistema" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="530" width="80" height="50" as="geometry" />
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-1" value="Armazenar os dados do jogador" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="621" y="435" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-2" value="Suportar os úsuarios com problemas técnicos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="137.5" width="80" height="65" as="geometry" />
@@ -389,16 +389,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-33" value="Renderização" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="435" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="435" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-35" value="Coletar lixo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="534.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WvgvfmkFP0tfZ369YzV3-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="460" as="sourcePoint" />
-            <mxPoint x="720" y="450" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WvgvfmkFP0tfZ369YzV3-39" value="Convencer os npcs do jogo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="574.5" width="80" height="40" as="geometry" />
@@ -447,6 +441,36 @@
             <mxPoint x="84" y="514" as="sourcePoint" />
             <mxPoint x="70" y="529" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-52" value="Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-53" value="Progamador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="142.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-55" value="Renderização" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="595" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-56" value="Renderização" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="595" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-57" value="Armazenar os dados do jogador" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="622" y="492.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WvgvfmkFP0tfZ369YzV3-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="612" y="534.5" as="sourcePoint" />
+            <mxPoint x="662" y="484.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvgvfmkFP0tfZ369YzV3-59" value="Comprar o caminhão de lixo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="584.5" width="80" height="45.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
